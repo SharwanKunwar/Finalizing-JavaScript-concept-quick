@@ -31,59 +31,59 @@ A compact checklist to revise all core JS concepts — perfect prep for React an
 ---
 
 ## ✅ Scope & Hoisting
-- Global vs local scope
-- Block scope (`let` and `const`)
-- Function scope (`var`)
-- Hoisting behavior
+- Global vs local scope ✅
+- Block scope (`let` and `const`) ✅
+- Function scope (`var`) ✅
+- Hoisting behavior ✅
 
 ---
 
 ## ✅ Objects & Arrays
-- Object literals, access (dot & bracket)
-- Array methods – `map`, `filter`, `reduce`, `forEach`, `find`, `some`, `every`
-- Object destructuring & Array destructuring
-- Optional chaining (`?.`) & Nullish coalescing (`??`)
+- Object literals, access (dot & bracket) ✅
+- Array methods – `map`, `filter`, `reduce`, `forEach`, `find`, `some`, `every` ✅/2
+- Object destructuring & Array destructuring 
+- Optional chaining (`?.`) & Nullish coalescing (`??`) ✅
 
 ---
 
 ## ✅ ES6+ Goodies
-- Template literals
+- Template literals ✅
 - Short syntax for methods
 - Enhanced object literals
-- Modules – `export`, `import`
+- Modules – `export`, `import` ✅
 
 ---
 
 ## ✅ DOM (for full control before React)
-- `getElementById`, `querySelector`, etc.
-- Event listeners – `addEventListener`
-- DOM tree traversal – parent / child / sibling
-- Create, append, remove elements dynamically
-- Forms & Input Handling
+- `getElementById`, `querySelector`, etc. ✅
+- Event listeners – `addEventListener` ✅
+- DOM tree traversal – parent / child / sibling ✅
+- Create, append, remove elements dynamically ✅
+- Forms & Input Handling ✅
 
 ---
 
 ## ✅ Asynchronous JavaScript
-- `setTimeout`, `setInterval`
-- Promises – `then`, `catch`
-- `async/await`
-- `fetch()` API & error handling
+- `setTimeout`, `setInterval` ✅
+- Promises – `then`, `catch` ✅
+- `async/await` ✅
+- `fetch()` API & error handling ✅
 
 ---
 
 ## ✅ OOP in JS
-- Constructor functions
-- ES6 Classes
-- `this` keyword
-- Inheritance
+- Constructor functions ✅
+- ES6 Classes ✅
+- `this` keyword ✅
+- Inheritance ✅
 
 ---
 
 ## ✅ Extras (React gets easier with these)
-- Closures
-- Currying
+- Closures ✅
+- Currying 
 - Debouncing / Throttling (for performance)
-- Event Loop & Call Stack (basic idea)
+- Event Loop & Call Stack (basic idea) ✅
 
 ---
 
